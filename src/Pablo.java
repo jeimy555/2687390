@@ -10,7 +10,7 @@ public class Pablo {
         productos=lectura.nextInt();
         System.out.println("ingrese la cantidad con la que va a pagar");
         pago=lectura.nextDouble();
-        total=productos*10;
+        total=productos*10000;
         cambio=pago-total;
        
        
