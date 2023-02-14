@@ -15,7 +15,7 @@ if (number>0) {System.out.println("el numero es positivo");
     System.out.println("el numero es negativo");
 }
 
-
+lectura.close();
     }
     
 }
