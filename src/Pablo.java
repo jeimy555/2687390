@@ -12,6 +12,9 @@ public class Pablo {
         pago=lectura.nextDouble();
         total=productos*10;
         cambio=pago-total;
+       
+       
+       //lo agregue porque queria probar unas cosas, no venia en el reto
         if (pago>=total) {
     System.out.println("su total es de "+total+" su cambio es "+cambio);
     ;}else{
