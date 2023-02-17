@@ -11,9 +11,12 @@ public class User {
         pass=lectura.next();
 
         if (user.equals("yurany555") && pass.equals("1032677961") ) { System.out.println("bienvenido al sistema");
-            } else if (user.equals("yurany")) {System.out.println("parece qhy");
-                
-            }
+            } else if (user.equals("yurany555")) {System.out.println("parece que olvidaste tus credenciales de acceso");
+                }else if (pass.equals("1032677961")) {System.out.println("algo pasa con tus datos de acceso");
+                    }else{
+                        System.out.println("acceso denegado");
+                    }
+                    lectura.close();
 
     }
 }
