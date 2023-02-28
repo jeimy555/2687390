@@ -24,7 +24,7 @@ public class Producto {
         System.out.println("ingrese valor con el que va a pagar");
         pago=lectura.nextInt();
         cambio=pago-acumulador;
-        System.out.println("su cambio es de "+cambio);
+        System.out.println(" su cambio es de "+cambio);
         System.out.println("¿usted cuenta con telefonia movil exito?");
         telefonia=lectura.next();
         if (telefonia.equals("si")) { System.out.println("usted ah obtenido "+contador+" minutos por su compra");
