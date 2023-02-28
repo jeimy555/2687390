@@ -10,7 +10,8 @@ public class Presupuesto {
         acumulador2=0;
 
 
-        for (int x = 1; x <=3; x++){ while (op==1) {
+        for (int x = 1; x <=3; x++)
+        { while (op==1) {
     
 
         System.out.println("ingrese el gasto");

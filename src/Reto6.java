@@ -32,16 +32,12 @@ public class Reto6 {
             
         }else {
             System.out.println("el resultado del primer dado es "+given1+" y el resultado del segundo dado es "+given2+" el total de los dados es "+total+" lo lamento no ah sido un ganador");
-        }}
+        }
     
-        
-
-
-
-
-
-
-
-
+    leer.close();
+    
+    }
+    
+    
     }
 
