@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reto6 {
+public class Challenge6 {
     public static void main(String[] args) {
         Scanner leer=new Scanner(System.in);
         int given1, given2, total,op;

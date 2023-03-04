@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reto8 {
+public class Challenge8 {
     public static void main(String[] args) {
         Scanner leer= new Scanner(System.in);
         int price,amount,discount,bolita,total,op,contador,acumulador,pay,change;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reto2 {
+public class Challenge2 {
     public static void main(String[] args) {
         Scanner leer= new Scanner(System.in);
         double peso,edad,dosis;
