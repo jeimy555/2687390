@@ -25,7 +25,7 @@ public class MisArrays {
         System.out.println(i);
     }
     
-    
+    leer.close();
     }
     
 }

@@ -29,7 +29,7 @@ public class Reto1 {
         } else {
             System.out.println("tu promedio es "+promedio+" reprobaste");
         }
-        
+       leer.close(); 
 
 
 
